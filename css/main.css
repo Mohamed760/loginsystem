@@ -1,0 +1,28 @@
+body{
+    background-color: #24353f;
+}
+
+.system-info{
+    background-color: #24353f;
+}
+
+input{
+    border: white solid 1px;
+    border-radius: 5px;
+}
+
+.login-btn{
+    border: white solid 1px;
+    border-radius: 5px;
+    color: #17a2b8;
+}
+
+.login-btn:hover{
+    background-color: #17a2b8;
+    color: white;
+    transition: all .5s;
+}
+
+.navbar{
+    background-color: #24353f;
+}
